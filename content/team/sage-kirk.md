@@ -8,4 +8,4 @@ linkedinurl: "https://www.linkedin.com/in/rantidevsharma/"
 weight: 2
 ---
 
-Strong Technical background with plenty of experience in data modeling and time series analysis.
+Strong Technical background with plenty of experience in data modeling and time series analysis. Huge amount of experience in Computer Vision both observing macro and micro economics trends.
